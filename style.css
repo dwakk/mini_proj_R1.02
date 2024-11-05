@@ -1,0 +1,76 @@
+p {
+    margin-left: 15%;
+    size: 10%;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+
+}
+
+body {
+    margin-left: 15%;
+    background-color: #353535;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+centrer {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.logo {
+    height: 1.5em;
+    margin-left: 15%;
+}
+
+header {
+    width: 100%;
+    color: white;
+    size: 16px;
+    max-width: none;
+    position: fixed;
+    padding: 0.5em;
+    top: 0;
+    left: 0;
+    background-color: #202020;
+}
+
+header2 {
+    width: 100%;
+    color: #202020;
+    size: 16px;
+    max-width: none;
+    position: fixed;
+    padding: 0.5em;
+    top: 2.5em;
+    left: 0;
+    background-color: white;
+}
+
+header3 {
+    width: 100%;
+    color: #202020;
+    size: 16px;
+    max-width: none;
+    position: fixed;
+    padding: 0.4em;
+    top: 12em;
+    left: 0;
+    max-height: 6%;
+    background-color: red;
+}
+
+.logo_iut {
+    padding-left: 15%;
+
+    height: 5em;
+
+}
